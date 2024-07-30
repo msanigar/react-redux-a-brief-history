@@ -11,11 +11,11 @@ This is a basic Todo application built using React (ES6) and Redux, with actions
 ### Installation
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/es6-react-redux-todo.git
+    git clone https://github.com/msanigar/react-redux-a-brief-history.git
     ```
 2. Navigate to the project directory:
     ```sh
-    cd es6-react-redux-todo
+    cd react-redux-a-brief-history/02_es6_react_redux
     ```
 3. Install the dependencies:
     ```sh

@@ -11,16 +11,16 @@ This is a basic Todo application built using React (ES6) and Redux, with Redux T
 ### Installation
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/class-redux-thunk-axios-todo.git
+    git clone https://github.com/msanigar/react-redux-a-brief-history.git
     ```
 2. Navigate to the project directory:
     ```sh
-    cd class-redux-thunk-axios-todo
+    cd react-redux-a-brief-history/03_react_redux_connected
     ```
 3. Install the dependencies:
     ```sh
     npm install
-    ```
+    ` ```
 
 ### Running the App
 1. Start the development server:

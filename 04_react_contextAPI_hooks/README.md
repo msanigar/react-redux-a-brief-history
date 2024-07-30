@@ -11,16 +11,16 @@ This is a basic Todo application built using React with Context API for global s
 ### Installation
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/context-api-hooks-todo.git
+    git clone https://github.com/msanigar/react-redux-a-brief-history.git
     ```
 2. Navigate to the project directory:
     ```sh
-    cd context-api-hooks-todo
+    cd react-redux-a-brief-history/04_react_contextAPI_hooks
     ```
 3. Install the dependencies:
     ```sh
     npm install
-    ```
+    `
 
 ### Running the App
 1. Start the development server:

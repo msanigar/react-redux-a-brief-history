@@ -11,11 +11,11 @@ This is a basic Todo application built using early React (pre-ES6).
 ### Installation
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/early-react-todo.git
+    git clone https://github.com/msanigar/react-redux-a-brief-history.git
     ```
 2. Navigate to the project directory:
     ```sh
-    cd early-react-todo
+    cd react-redux-a-brief-history/01_early_react
     ```
 3. Install the dependencies:
     ```sh

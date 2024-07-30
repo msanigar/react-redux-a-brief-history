@@ -21,18 +21,19 @@ Each folder contains its own `README.md` file with specific instructions on how 
 
 ### Installation
 
+### Installation
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/react-redux-history.git
+    git clone https://github.com/msanigar/react-redux-a-brief-history.git
     ```
-2. Navigate to the specific project directory:
+2. Navigate to the project directory:
     ```sh
-    cd react-redux-history/01_early_react
+    cd react-redux-a-brief-history/<app>
     ```
 3. Install the dependencies:
     ```sh
     npm install
-    ```
+    `
 
 ### Running the App
 

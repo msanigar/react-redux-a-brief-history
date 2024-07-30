@@ -11,16 +11,16 @@ This is a modern Todo application built using React with TypeScript, Redux Toolk
 ### Installation
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/typescript-redux-toolkit-todo.git
+    git clone https://github.com/msanigar/react-redux-a-brief-history.git
     ```
 2. Navigate to the project directory:
     ```sh
-    cd typescript-redux-toolkit-todo
+    cd react-redux-a-brief-history/05_react_ts_rtk
     ```
 3. Install the dependencies:
     ```sh
     npm install
-    ```
+    `
 
 ### Running the App
 1. Start the development server:
