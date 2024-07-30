@@ -1,0 +1,26 @@
+{
+    "name": "es6-react-redux-todo",
+    "version": "1.0.0",
+    "main": "index.js",
+    "dependencies": {
+      "react": "0.14.x",
+      "react-dom": "0.14.x",
+      "redux": "3.x",
+      "react-redux": "4.x"
+    },
+    "devDependencies": {
+      "@babel/core": "^7.14.0",
+      "@babel/preset-env": "^7.14.0",
+      "@babel/preset-react": "^7.14.0",
+      "@babel/plugin-proposal-class-properties": "^7.14.0",
+      "babel-loader": "^8.2.0",
+      "webpack": "^4.44.2",
+      "webpack-cli": "^3.3.12",
+      "webpack-dev-server": "^3.11.0"
+    },
+    "scripts": {
+      "start": "webpack-dev-server --mode development --open",
+      "build": "webpack --mode production"
+    }
+  }
+  

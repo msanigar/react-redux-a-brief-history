@@ -1,0 +1,20 @@
+{
+    "name": "early-react-todo",
+    "version": "1.0.0",
+    "main": "index.js",
+    "dependencies": {
+      "react": "0.14.x",
+      "react-dom": "0.14.x"
+    },
+    "devDependencies": {
+      "babel-core": "^6.26.3",
+      "babel-loader": "^7.1.5",
+      "babel-preset-react": "^6.24.1",
+      "webpack": "^4.44.2",
+      "webpack-cli": "^3.3.12",
+      "webpack-dev-server": "^3.11.0"
+    },
+    "scripts": {
+      "start": "webpack-dev-server --mode development --open"
+    }
+  }
